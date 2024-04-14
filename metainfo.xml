@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<presentation guid="01998671-798B-4E7B-8D72-F897CBCB409C" version="0" availableOffline="1">
+	<info>
+		<title>unit 2 lien ket</title>
+		<description/>
+	</info>
+	<files index="id31" thumbnail="id114" totalSize="20095410">
+		<file id="id28">lms.js</file>
+		<file id="id29">data/goodbye.html</file>
+		<file id="id31">index.html</file>
+		<file id="id32">data/thmb1.png</file>
+		<file id="id33">data/scenario1.js</file>
+		<file id="id34">data/scenario1/fnt1.woff</file>
+		<file id="id35">data/scenario1/fnt1b.woff</file>
+		<file id="id36">data/scenario1/fnt1bi.woff</file>
+		<file id="id37">data/scenario1/fnt1i.woff</file>
+		<file id="id38">data/scenario1/html5-unsupported.html</file>
+		<file id="id39">data/scenario1/img0.png</file>
+		<file id="id40">data/scenario1/snd0.mp3</file>
+		<file id="id41">data/scenario1/snd1.mp3</file>
+		<file id="id42">data/thmb2.png</file>
+		<file id="id43">data/video1.mp4</file>
+		<file id="id44">data/slide2.js</file>
+		<file id="id45">data/slide2.css</file>
+		<file id="id46">data/thmb3.png</file>
+		<file id="id47">data/slide3.js</file>
+		<file id="id48">data/slide3.css</file>
+		<file id="id49">data/thmb4.png</file>
+		<file id="id50">data/slide4.js</file>
+		<file id="id51">data/slide4.css</file>
+		<file id="id52">data/thmb5.png</file>
+		<file id="id53">data/slide5.js</file>
+		<file id="id54">data/slide5.css</file>
+		<file id="id55">data/thmb6.png</file>
+		<file id="id56">data/quiz1.js</file>
+		<file id="id57">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id58">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id59">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id60">data/quiz1/fonts/fnt3.woff</file>
+		<file id="id61">data/quiz1/fonts/fnt4.woff</file>
+		<file id="id62">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id63">data/video2.mp4</file>
+		<file id="id64">data/video3.mp4</file>
+		<file id="id65">data/video4.mp4</file>
+		<file id="id66">data/video5.mp4</file>
+		<file id="id67">data/quizplayer.js</file>
+		<file id="id68">data/scenarioplayer.js</file>
+		<file id="id69">data/player.js</file>
+		<file id="id74">data/browsersupport.js</file>
+		<file id="id75">data/apple-touch-icon.png</file>
+		<file id="id76">data/favicon.ico</file>
+		<file id="id77">data/fnt0.woff</file>
+		<file id="id78">data/fnt1.woff</file>
+		<file id="id79">data/fnt10.woff</file>
+		<file id="id80">data/fnt2.woff</file>
+		<file id="id81">data/fnt3.woff</file>
+		<file id="id82">data/fnt4.woff</file>
+		<file id="id83">data/fnt5.woff</file>
+		<file id="id84">data/fnt6.woff</file>
+		<file id="id85">data/fnt7.woff</file>
+		<file id="id86">data/fnt8.woff</file>
+		<file id="id87">data/fnt9.woff</file>
+		<file id="id88">data/html5-unsupported.html</file>
+		<file id="id89">data/img0.png</file>
+		<file id="id90">data/img1.png</file>
+		<file id="id91">data/img10.jpg</file>
+		<file id="id92">data/img11.jpg</file>
+		<file id="id93">data/img12.jpg</file>
+		<file id="id94">data/img13.png</file>
+		<file id="id95">data/img14.jpg</file>
+		<file id="id96">data/img15.png</file>
+		<file id="id97">data/img16.png</file>
+		<file id="id98">data/img17.jpg</file>
+		<file id="id99">data/img18.jpg</file>
+		<file id="id100">data/img19.png</file>
+		<file id="id101">data/img2.png</file>
+		<file id="id102">data/img20.png</file>
+		<file id="id103">data/img21.jpg</file>
+		<file id="id104">data/img22.jpg</file>
+		<file id="id105">data/img23.jpg</file>
+		<file id="id106">data/img24.jpg</file>
+		<file id="id107">data/img3.png</file>
+		<file id="id108">data/img4.jpg</file>
+		<file id="id109">data/img5.png</file>
+		<file id="id110">data/img6.jpg</file>
+		<file id="id111">data/img7.jpg</file>
+		<file id="id112">data/img8.png</file>
+		<file id="id113">data/img9.jpg</file>
+		<file id="id114">data/ismplayer/preview.png</file>
+	</files>
+</presentation>
